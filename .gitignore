@@ -1,0 +1,6 @@
+*
+!/index.js
+!/package.json
+!/pnpm-lock.yaml
+!/README.md
+!.gitignore
